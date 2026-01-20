@@ -1,0 +1,17 @@
+# --- Core Processing ---
+numpy>=1.21.0
+pandas>=1.3.0
+joblib>=1.1.0
+
+# --- Computer Vision ---
+opencv-python>=4.5.5.64
+mediapipe>=0.10.0
+
+# --- Machine Learning (PC Training) ---
+# Note: For Raspberry Pi inference, use tflite-runtime instead
+tensorflow>=2.10.0
+scikit-learn>=1.0.2
+
+# --- Visualization & Analysis ---
+matplotlib>=3.5.0
+seaborn>=0.11.0
