@@ -154,4 +154,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Helping bridge communication gaps through technology* 🤟</content>
-<parameter name="filePath">d:\Kuliah\Tugas Akhir\BISINDO-Sign-Language-Translator\README.md
