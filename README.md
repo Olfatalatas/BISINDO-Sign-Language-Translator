@@ -67,6 +67,10 @@ The system will:
 - Display recognized signs with confidence scores
 - Output text translations
 
+## 🎥 Demo Video
+
+Check out my demo video on YouTube: [BISINDO Sign Language Translator Demo](https://youtu.be/mTYw6_giGLI)
+
 ## 📁 Project Structure
 
 ```
